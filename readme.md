@@ -64,3 +64,56 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - [Python](https://www.python.org/) for being an amazing programming language.
 - [Visual Studio Code](https://code.visualstudio.com/) for being a powerful and user-friendly IDE.
+
+
+
+
+
+
+# Simple Calculator with GUI
+
+## Description
+This is a simple calculator application that performs basic arithmetic operations using a graphical user interface (GUI). The application allows users to perform calculations by clicking buttons for numbers and operations.
+
+## Features
+- Addition, subtraction, multiplication, and division
+- Clear input option
+- Simple and intuitive GUI
+
+## Prerequisites
+- Python 3.x
+- Tkinter (usually included with Python installations)
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/simple-calculator-gui.git
+   cd simple-calculator-gui
+Open the project in your preferred IDE:
+Open Visual Studio Code or any other IDE.
+Navigate to the project directory.
+Usage
+Open the terminal in your IDE or your system's command prompt.
+Navigate to the project directory.
+Run the calculator script:
+bash
+Copy code
+python calculator_gui.py
+Example
+When you run the application, a window will appear where you can:
+
+Click on buttons to input numbers and operations.
+Use the "C" button to clear the current input.
+Click "=" to evaluate the expression and display the result.
+Author
+Vishal
+Email: vishal.2302305051@gmail.com
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgements
+Python for being an amazing programming language.
+Tkinter for providing the GUI toolkit.
+Visual Studio Code for being a powerful and user-friendly IDE.
+
