@@ -19,7 +19,7 @@ This is a simple calculator application that performs basic arithmetic operation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/codewithvishaldk/CALCULATOR-mydailywork.git
    cd simple-calculator
    ```
 
