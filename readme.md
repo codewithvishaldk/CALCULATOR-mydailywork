@@ -16,8 +16,8 @@ This is a simple calculator application that performs basic arithmetic operation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
-   cd simple-calculator
+  git clone https://github.com/your-username/simple-calculator.git
+   cd calculator
    ```
 
 2. **Open the project in your preferred IDE**:
